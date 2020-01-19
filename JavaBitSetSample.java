@@ -2,9 +2,8 @@ import java.io.*;
 import java.util.BitSet;
 class test  
 {
-	public static final int powerStatus =15;
-	public static final int powerStatus1 =17;
-    static BitSet bS1 =new BitSet();
+
+   	static BitSet bS1 =new BitSet();
 	static byte[] bSend = new byte[10];
        /**
      * 将BitSet对象转化为ByteArray
